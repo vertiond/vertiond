@@ -1,0 +1,4 @@
+- discord: vertion#2817:`368416065644003339`
+- reddit: stravinsky_
+- libera (IRC): vertion
+- PGP fingerprint: `28E7 2909 F171 7FE9 6077 54F8 A7BE B262 1678 D37D`
